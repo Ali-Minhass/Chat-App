@@ -17,8 +17,6 @@ const ProfilePage = () => {
       bio,
       image: selectedImage,
     });
-
-    alert("Profile updated successfully!");
   };
 
   return (
